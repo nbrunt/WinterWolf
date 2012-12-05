@@ -1,5 +1,4 @@
-#WinterWolf Web Browser
-![alt text](https://github.com/nbrunt/WinterWolf/blob/master/images/logo.png "WinterWolf")
+#![WinterWolf](https://raw.github.com/nbrunt/WinterWolf/master/images/logo.png "WinterWolf") WinterWolf Web Browser
 
 ##To Install
 
