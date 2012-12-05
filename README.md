@@ -1,13 +1,20 @@
-To Run
-======
+##To Install
 
 Type:
 
+```
+make
+```
+
+##To Run
+
+Type:
+
+```
 java -jar WinterWolf.jar
+```
 
-
-About
-=====
+##About
 
 WinterWolf Web Browser
 December 2010

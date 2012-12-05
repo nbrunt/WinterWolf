@@ -461,7 +461,7 @@ public class BrowserWindow extends JFrame {
 
         menuItem = new JMenuItem("Bookmark this page", new ImageIcon("images/favourite-menu.png"));
         menuItem.setAccelerator(KeyStroke.getKeyStroke(
-            KeyEvent.VK_V, ActionEvent.CTRL_MASK));
+            KeyEvent.VK_D, ActionEvent.CTRL_MASK));
         menuItem.setActionCommand("fav");
         menuItem.addActionListener(Main.controller);
         popupMenu.add(menuItem);
