@@ -1,3 +1,6 @@
+#WinterWolf Web Browser
+![alt text](https://github.com/nbrunt/WinterWolf/blob/master/images/logo.png "WinterWolf")
+
 ##To Install
 
 Type:
@@ -16,7 +19,6 @@ java -jar WinterWolf.jar
 
 ##About
 
-WinterWolf Web Browser
 December 2010
 
 In my second year at university I built a web browser for a Graphical User Interfaces module. Unfortunately it had to be written in Java, and even more unfortunately it had to use a JEditorPane as the rendering engine with the consequence that it only supports HTML 3.2.
