@@ -14,11 +14,15 @@ all: winterwolf
 #-----------------------------------------------------------------------------
 # Compile WinterWolf:
 #-----------------------------------------------------------------------------
-# Options:
-#   make - compile to exe
-#   O2   - optimise (level 2)
-#   w    - hide warnings
-#   o    - specify output filename
+# Javac Options:
+#   sourcepath - Specifies where to look for input source files
+#   d          - Specifies where to put generated class files
+# Jar Options:
+#   c          - create new archive
+#   v          - verbose output
+#   f          - archive file name
+#   m          - include manifest info from specified file
+#   C          - change to the specified directory and include the following file
 winterwolf: clean
 		#
 		# Compiling WinterWolf...
