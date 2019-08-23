@@ -1,6 +1,6 @@
-#![WinterWolf](https://raw.github.com/nbrunt/WinterWolf/master/images/logo.png "WinterWolf") WinterWolf Web Browser
+# ![WinterWolf](https://raw.github.com/nbrunt/WinterWolf/master/images/logo.png "WinterWolf") WinterWolf Web Browser
 
-##To Install
+## To Install
 
 Type:
 
@@ -8,7 +8,7 @@ Type:
 make
 ```
 
-##To Run
+## To Run
 
 Type:
 
@@ -16,7 +16,7 @@ Type:
 java -jar WinterWolf.jar
 ```
 
-##About
+## About
 
 December 2010
 
